@@ -1,0 +1,14 @@
+body{
+    background-color: #5d435a;
+}
+ h1{
+    color: #d8cfe0;
+    text-align: center;
+ }
+ button{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #d0bce1;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
