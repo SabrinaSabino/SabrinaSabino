@@ -6,7 +6,7 @@
     <span>Sabrina Sabino</span>
 </h1>
 
-<p align="justify">👋 Olá! Sou a Sabrina Sabino, uma entusiasta da tecnologia de 17 anos de São Paulo, Brasil. Atualmente, estou estudando Desenvolvimento Front-End no SENAI e Desenvolvimento Web na Afesu Veleiros.
+<p align="justify">👋 Olá! Sou a Sabrina Sabino, uma entusiasta da tecnologia de 17 anos de São Paulo, Brasil. Estudei Desenvolvimento Front-End no SENAI e Desenvolvimento Web na Afesu Veleiros.
   
 💻 Apaixonada por tecnologia, estou determinada a seguir carreira na área de TI e contribuir para projetos inovadores.
 
